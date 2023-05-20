@@ -3,7 +3,7 @@
 
 <center>
 
-![GitHub followers](https://img.shields.io/github/followers/kron0800?style=social) 
+  ![GitHub followers](https://img.shields.io/github/followers/kron0800?style=social) 
   ![GitHub User's stars](https://img.shields.io/github/stars/kron0800?style=social) 
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kron0800.repoName) 
   <img src="https://komarev.com/ghpvc/?username=kron0800" alt="kron0800" />
@@ -29,10 +29,11 @@
 ## What I am Good at 🧑‍💻 :
 
 <br>
-<img alt="Kotlin" src="https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png"/> 
-<img alt="Python" src="https://img.icons8.com/?size=48&id=13441&format=png"/> 
-<img alt="IntelliJ Idea" src="https://img.icons8.com/?size=48&id=61466&format=png"/> 
-<img alt="Android Studio" src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png"/> 
+
+<img alt="Kotlin" src="https://img.icons8.com/?size=48&id=ZoxjA0jZDdFZ&format=png"/> ‎
+<img alt="Python" src="https://img.icons8.com/?size=48&id=13441&format=png"/> ‎ 
+<img alt="IntelliJ Idea" src="https://img.icons8.com/?size=48&id=61466&format=png"/> ‎
+<img alt="Android Studio" src="https://img.icons8.com/?size=48&id=04OFrkjznvcd&format=png"/> ‎
 <img alt="Git" src="https://img.icons8.com/?size=50&id=20906&format=png"/>
 
 ‎  
@@ -41,7 +42,7 @@
 <img alt="Picasso" src="https://redwerk.com/wp-content/uploads/2020/07/Picasso_logo.png" width="120" height="50"/> ‎ 
 <img alt="Glide" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAfjmwiesEzCVtmsniZltg-ZErNVzFil_GvcUrhH918TzhoXLz" width="110" height="50"/> ‎ 
 <img alt="MVVM" src="https://www.remoterocketship.com/images/blog/MVVM-icon-for-blog.jpg" width="100" height="50"/> ‎ 
-<img alt="MVVM" src="https://images.squarespace-cdn.com/content/v1/5c59aff965a70750db3543b0/e103aab2-c010-4493-ae75-28202876f40f/Room-logo+copy.pdf+%281%29.png" width="90" height="50" style="background-color:white;"/>
+<img alt="Room" src="https://images.squarespace-cdn.com/content/v1/5c59aff965a70750db3543b0/e103aab2-c010-4493-ae75-28202876f40f/Room-logo+copy.pdf+%281%29.png" width="90" height="50" style="background-color:white;"/>
 
 <br>
 
