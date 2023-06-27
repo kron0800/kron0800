@@ -1,19 +1,28 @@
 
 <h1 align="center"> Hi, I'm Santiago Moya! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<center>
 
-  ![GitHub followers](https://img.shields.io/github/followers/kron0800?style=social) 
-  ![GitHub User's stars](https://img.shields.io/github/stars/kron0800?style=social) 
-  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=kron0800.repoName) 
-  <img src="https://komarev.com/ghpvc/?username=kron0800" alt="kron0800" />
-</center>
+<div align="center">
+  <div class="container">
+    <a href="https://discord.com/users/315177992651276290">
+      <img src="https://lanyard.cnrad.dev/api/315177992651276290" width="400">
+    </a>
+  </div>
+  <br>
+  <div class="bottom-elements">
+    <img src="https://img.shields.io/github/followers/kron0800?style=social" alt="Github followers">
+    <img src="https://img.shields.io/github/stars/kron0800?style=social" alt="Github stars">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kron0800.repoName" alt="Profile visitors">
+    <img src="https://komarev.com/ghpvc/?username=kron0800" alt="Profile views">
+  </div>
+</div>
+
 
 ## About Me :
 - 📲 I'm a Native Android Developer
 - 💼 Looking for my first work opportunity
 - 🎓 Studies for Android Developer on [Platzi](https://www.londonmet.ac.uk/) and [Udemy](https://www.udemy.com)
-- 🌱 I’m currently learning Retrofit 2 and Corroutines
+- 🌱 I’m currently learning Room 
 - 🏡 Living in **Argentina**
 - ⚡  Fun fact: I love swimming, biking and gaming 🏊🏼🚴🎮
 <br>
@@ -24,6 +33,7 @@
 
 [![@santi.moya1](https://img.icons8.com/fluency/48/000000/instagram-new.png "@santi.moya1")](https://www.instagram.com/santi.moya1/) 
 [![@santiagomoya1](https://img.icons8.com/fluency/48/000000/linkedin.png "@santiagomoya1")](https://www.linkedin.com/in/santiagomoya1/) [![@santiagomoya_](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@santiagomoya_")](https://twitter.com/santiagomoya_) [![santiagomoya.dev@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "santiagomoya.dev@gmail.com")](santiagomoya.dev@gmail.com)
+[![kron0800](https://img.icons8.com/?size=48&id=2mIgusGquJFz&format=png "kron0800")](https://discord.com/users/315177992651276290)
 <br>
 
 ## What I am Good at 🧑‍💻 :
