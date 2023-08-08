@@ -3,11 +3,7 @@
 
 
 <div align="center">
-  <div class="container">
-    <a href="https://discord.com/users/315177992651276290">
-      <img src="https://lanyard.cnrad.dev/api/315177992651276290" width="400">
-    </a>
-  </div>
+
   <br>
   <div class="bottom-elements">
     <img src="https://img.shields.io/github/followers/kron0800?style=social" alt="Github followers">
